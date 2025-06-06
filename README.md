@@ -2,7 +2,7 @@
 C to ARM Cross Compiler
 
 ## Introduction
-The C to ARM Cross Compiler project is a comprehensive tool designed to compile C source code into ARM architecture binaries. It facilitates efficient development for embedded systems by bridging the gap between high-level C programming and low-level ARM machine code generation. This project leverages Python for backend compiler components and a modern React-based frontend for an interactive user interface.
+The C to ARM Cross Compiler project is a comprehensive tool designed to compile C source code into ARM assembly instructions. It facilitates efficient development for embedded systems by bridging the gap between high-level C programming and low-level ARM machine code generation. This project leverages Python for backend compiler components and a modern React-based frontend for an interactive user interface.
 
 ## Project Overview
 This cross-compiler translates C code into ARM machine code, enabling developers to build applications optimized for ARM-based embedded devices. Its modular design, user-friendly interface, and comprehensive testing framework make it a robust solution for both learning and real-world applications in embedded system development.
