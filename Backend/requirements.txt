@@ -3,5 +3,5 @@ pandas
 requests
 Django
 Flask
-Flask_CORS
+Flask-Cors
 pycparser
