@@ -3,8 +3,5 @@ pandas
 requests
 Django
 Flask
-jsonify
-flask_cors
-subprocess
-cparser
-scanner
+Flask_CORS
+pycparser
