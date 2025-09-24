@@ -1,0 +1,10 @@
+numpy
+pandas
+requests
+Django
+Flask
+jsonify
+flask_cors
+subprocess
+cparser
+scanner
